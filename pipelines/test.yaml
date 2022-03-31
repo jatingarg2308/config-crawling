@@ -1,0 +1,11 @@
+---
+name: tartanhq collector
+functions:
+- name: click
+  params:
+    xpath: //*[@href="/talk-to-us"]
+- name: back
+- name: click
+  params:
+    xpath: //*[@href="/talk-to-us"]
+- name: back
